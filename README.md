@@ -48,7 +48,7 @@ Production of Policy Briefs | Some text | November - December
 ### Resources
 - [ ] Survey Development
 - [ ] Data Collection training
-- [ ] Data Verification Cleaning
+- [ ] Data Verification & Cleaning
 - [ ] Data Publication
 - [ ] Data Analysis
 - [ ] Production of Policy Briefs
