@@ -1,6 +1,6 @@
 ## Promoting Transparency and Accountability in Local Government Through Open Data Collection in Three Area Councils OF FCT, Nigeria
 
-#### A project by the [Women Environmental Programme (WEP)](www.wepnigeria.net) with funding from [Open Data for Development (OD4D)](www.od4d,com) Network through the Africa Open Data Collaboration (AODC) Fund.
+#### A project by the [Women Environmental Programme (WEP)](http://wepnigeria.net) with funding from [Open Data for Development (OD4D)](http://od4d.com) Network through the Africa Open Data Collaboration (AODC) Fund.
 Read more about the AODC Fund in [this blog post](http://blog.okfn.org/2016/09/28/africa-open-data-collaboration-fund-building-capacity-for-africas-emerging-data-revolution/).
 
 <img src="/images/od4d_logo.png" width=300/>
@@ -27,12 +27,12 @@ All the project locations are part of Federal Capital Territory (FCT) of Nigeria
 - National Union of Local Government Employees
 - Charles and Doosurgh Abaagu Foundation
 - Community Emergency Response Initiative
-- [Connected Development](www.connecteddevelopment.org)
-- [Open Knowledge International](www.okfn.org)
+- [Connected Development](http://connecteddevelopment.org)
+- [Open Knowledge International](https://okfn.org)
 
 ### Project Funders
 
-- [Open Data for Development (OD4D) Network](www.od4d.com)
+- [Open Data for Development (OD4D) Network](http://od4d.com)
 
 ### Project Roadmap
 Activity       | Description    |    Dates
