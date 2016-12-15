@@ -56,7 +56,7 @@ Data Analysis | Some text | November
 Production of Policy Briefs | Some text | November - December
 
 ### Resources Available
-- [x] Survey Development
+- [x] [Survey Development](https://github.com/sdopoku/wep_data_collection/tree/master/survey)
 - [ ] Data Collection training
 - [x] Data Verification & Cleaning
 - [ ] Data Publication
