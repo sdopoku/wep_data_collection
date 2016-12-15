@@ -10,7 +10,17 @@ Read more about the AODC Fund in [this blog post](http://blog.okfn.org/2016/09/2
 
 
 ### Project Description
-Local Government Administrations (LGAs) are the third tier administrative structure created in Nigeria to decentralize governance, bring government closer to the people at the grassroots and render social services pivotal in engendering national development. They are purposefully located and responsible for the governance of about 70 percent of the estimated 170 million people of the Nigerian population. Thus, they are said to be in a vantage position to aggregate and articulate the needs of the majority of Nigerians and facilitate rural development through the application of the needed financial and human resources in their operations. The demands and expectations from local government councils over the years have been on the increase while the finance required to deliver the dividend of democracy and good administration at the grassroots continue to dwindle, inadequate, mismanaged and misappropriated. The LGAs have been characterized by bazaar mentality, poor accounting systems, unavailability of reliable data required for planning, over-politicization, inadequate finance and poor revenue collection, greed, unnecessary government. The broad objective of the project is to evaluate the root causes of failure in the local government areas and how effective budget controls brings about efficient governance in the local government systems. The project activities include, web-based crowd-sourcing of information and data, administration of survey instruments, interviews, focus group discussions, production of policy briefs. It will disseminate the findings through national and international conferences, workshops, donors, academia and tertiary institutions, LGAs, policy and decision makers, CSOs, general public and communities.
+Local Government Administrations (LGAs) are the third tier administrative structure created in Nigeria to decentralise governance, bring government closer to the people at the grassroots and render social services pivotal in engendering national development. They are purposefully located and responsible for the governance of about **70 percent** of the estimated 170 million people of the Nigerian population. Thus, they are said to be in a vantage position to aggregate and articulate the needs of the majority of Nigerians and facilitate rural development through the application of the needed financial and human resources in their operations.
+
+The demands and expectations from local government councils over the years have been on the increase while the finance required to deliver the dividend of democracy and good administration at the grassroots continue to dwindle, is inadequate, mismanaged and misappropriated. The LGAs have been characterized by "bazaar" mentality, poor accounting systems, unavailability of reliable data required for planning, over-politicization, inadequate finance and poor revenue collection, greed, unnecessary government structure.
+
+The broad objective of the project is to evaluate the root causes of failure in the local government areas and how effective budget controls brings about efficient governance in the local government systems. The project activities include:
+  - web-based crowd-sourcing of data
+  - administration of community surveys
+  - interviews and focus group discussions
+  - production of policy briefs.
+
+WEP will disseminate the findings through national and international conferences, workshops, donors, academia and tertiary institutions, LGAs, policy and decision makers, CSOs, general public and communities. The anonymised dataset will be made available in an open format for further analysis.
 
 ### Project Location
 1. Abuja Municipal Area Council
@@ -34,7 +44,7 @@ All the project locations are part of Federal Capital Territory (FCT) of Nigeria
 
 - [Open Data for Development (OD4D) Network](http://od4d.com)
 
-### Project Roadmap
+### Project Timeline
 Activity       | Description    |    Dates
 -------------- | -------------- | -------
 Survey Development | Some text | March
@@ -45,7 +55,7 @@ Data Publication | Some text | November
 Data Analysis | Some text | November
 Production of Policy Briefs | Some text | November - December
 
-### Resources
+### Resources Available
 - [ ] Survey Development
 - [ ] Data Collection training
 - [ ] Data Verification & Cleaning
