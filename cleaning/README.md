@@ -12,7 +12,7 @@ To validate the data, WEP staff went through the database to validate:
 - How many responses were duplicate entries ?
 - Were the communities are placed appropriately against their wards and Area Councils ?
 
-After perusing the database, we found that out of the 333 responses received, 5 were responses from test survey prior to the commencement of the survey: 4 on 31st July and one at 8:09 am on 1st August by Rose. This was due to preliminary test collection done by the data collector.
+After perusing the database, we found that out of the 333 responses received, 5 were responses from test survey prior to the commencement of the survey: 4 on 31st July and one at 8:09 am on 1st August. This was due to preliminary test collection done by one data collector.
 
 ### Area Council Validation
 
@@ -27,7 +27,7 @@ Lugbe FHA was just written as FHA. But the ward (Kabusa) it came under help to d
 - Wuse zone 2  was submitted as Ministerial Quarters and has been corrected after following up with enumerators.
 - There were 4 entries for Nyanya FHA community under Nyanya ward in AMAC. The first two extra were deleted since they were duplications of the 3rd submission. The community name was corrected from FHA to Nyanya FHA
 - There were 2 entries as Ministerial Quarters, under Wuse ward in AMAC. This was investigated further from the enumerators and was discovered that it refers to Wuse Zone 2 community. This has been corrected..
-- Area 3 community was not attributed to any area council or ward. Records show that it belongs to AMAC and City Centre ward. This has been updated. However it is important to follow up with enumerator, Prestige Akwe, on how he managed to submit an entry without the required area council and ward fields.
+- Area 3 community was not attributed to any area council or ward. Records show that it belongs to AMAC and City Centre ward. This has been updated. We followed up with the data collector assigned to find out how he managed to submit an entry without the required area council and ward fields.
 
 
 #### Kuje Area Council
@@ -42,16 +42,15 @@ Gumayi community was called Guwayi in the submissions and was uploaded under Kwa
 - Tusha community in Gwargwada ward was also uploaded to Rubochi ward. It has been changed to Gwargwada ward.
 - Zokutu in Rubochi has only 1 entry under Rubochi and the other entry was uploaded to Yenche ward. It has been corrected.
 - 1 record for Chibiri community was uploaded under Kuje ward instead of Chibiri ward. This has been corrected.
-- Responses were received from Kiyi community in Chibiri ward. This community was not to be surveyed. Only 4 communities were to be surveyed in this ward. John Baaki contacted Ifeanyi and he admitted they surveyed Kiyi because, at their first outing they could not access one of the communities they were supposed to survey in Chibiri ward and then picked Kiyi for replacement. But later they were shown another route that bypass that river that posed as their obstacle.Kiyi has therefore been kept.
-- Gude community in Gaube ward has 4 entries instead of 2. 4 different responses were collected from this community. John Baaki contacted the team members and I understand there was miscommunication among them as to who is responsible for this community and the two teams went ahead to survey the same community without knowing. The extra entries are therefore kept.
-- Gwaupe community in Gaube ward did not receive any response, even though it ought to have been done. For Gwaupe community in gaube ward, I learnt from the team leader that they could not access it due to large volume of water in the river that you have to cross before getting to Gwaupe community. Nor Samuel and Derrick Bangura were supposed to survey this community.
-- Submission for gambo and gbambo communities were made under Yenche ward but there is no record of such communities in the survey list. Submissions were made by Derrick Edward Bangura and need to be followed up on.
-
+- Responses were received from Kiyi community in Chibiri ward. This community was not to be surveyed. Only 4 communities were to be surveyed in this ward. The data collectors admitted they surveyed Kiyi because at their first outing they could not access one of the communities they were supposed to survey in Chibiri ward and then picked Kiyi for replacement. But later they were shown another route that bypass that river that posed as their obstacle. Kiyi has therefore been kept.
+- Gude community in Gaube ward has 4 entries instead of 2. 4 different responses were collected from this community. The team members responsible for this explain there was miscommunication which led to them surveying the same community more than once. The extra entries are therefore kept.
+- Gwaupe community in Gaube ward did not receive any response, even though it ought to have been done. For Gwaupe community in gaube ward, we learnt from the team leader that they could not access it due to large volume of water in the river that you have to cross before getting to Gwaupe community.
+- Submission for gambo and gbambo communities were made under Yenche ward but there is no record of such communities in the survey list. One copy was kept.
 
 #### Gwagwalada Area Council
 - Two entries were made for Ibwa II and Ibuwa II which represent the same community, Ibwa Sarki. These have been corrected.
-- Ungwan Sarki Dobi has 4 entries instead of 2 but have been kept. These entries were collected by Isso Solomon. John has contacted Iso Solomon and he has admitted collecting 4 responses from this community.
-- Under Zuba ward in Gwagwalada Area Council, a response was received from a community with only ‘a’ as its name. As it was difficult to know which community exactly is this, we have deleted the response.
+- Ungwan Sarki Dobi has 4 entries instead of 2 but have been kept. These entries were collected by Isso Solomon. The data collector responsible for this community admitted collecting 4 responses from this community.
+- Under Zuba ward in Gwagwalada Area Council, a response was received from a community with only the letter **a** as its name. As it was difficult to know which community exactly is this, we have deleted the response.
 - 3 responses were also received from Ungwan kasa community under Zuba ward in Gwagwalada. The responses have all been kept.
 - Sabon kasuwa community under Zuba ward was supposed to have been surveyed but was not surveyed.
 - Kaida tsoho in Dobi ward was not surveyed as the data collectors reported that there was no one living in the community
@@ -85,10 +84,10 @@ Gumayi community was called Guwayi in the submissions and was uploaded under Kwa
 #### Response by Area Council
 Area Council | Responses | Number of communities
 ------------- | --------- | ---------------------
-Abuja Municipal Area Council | 148 | 72
+Abuja Municipal Area Council | 148 | 74
 Kuje Area Council | 96 |47
 Gwagwalada Area Council |79 |38
-Total |323 |157
+Total |323 |159
 
 #### Responses by Ward
 Ward | Area Council | Number of Responses
@@ -139,6 +138,22 @@ Yenche| Kuje | 8
   - other_please_specify -> other
 
 
+  - For the responses for other_occupation, the following edits were made:
+    - Chief of nyanya village -> chief
+
+
+  - For question on duration_in_community, the following edits were made:
+    1. __1_year -> less_than_1
+    - 1__5_years -> 1_to_5
+    - 6__10_years -> 6_to_10
+    - 11__15_years -> 11_to_15
+    - 16__20_years -> 16_to_20
+    - 21__25_years -> 21_to_25
+    - 26__30_years -> 26_to_30
+    - 30__years -> 30_or_more
+
+
+
 - In question on condition of road, the following  corrections were made:
   1. tarred_graded__ (Tarred/graded but dilapidated was changed) -> dilapidated
   - under_construc -> under_construction
@@ -153,6 +168,10 @@ Yenche| Kuje | 8
 
 - For hours of public power, the following mapping is used:
   1. none_of_the_ab -> none_of_the_above
+  - 1__6 -> 1_to_6
+  - 7__12 -> 7_to_12
+  - 13__18 -> 13_to_18
+  - 19__23 -> 19_to_23
 
 
 - For Effect of Power Condition, the following mapping is used:
@@ -182,9 +201,27 @@ Yenche| Kuje | 8
   - no_waste_manag -> no_waste_management
 
 
+- For services_other_services, the following mapping is used:
+  1. Access other communities markets -> no_market
+  - Non of the listed -> none
+  - none_of_the_above -> none
+  - Patient Store -> patient_store
+  - Provision store. -> provision_store
+  - small scale markets -> small_scale_markets
+
+
+
 - For Communication for the various service providers, the following mapping correction is made:
   1. option_1 -> yes
   - option_2 -> no
+
+
+- For months_since_last_community_briefing, the following mapping correction is made:
+  1. 1__6_months -> 1_to_6
+  - 7__12_months -> 7_to_12
+  - 13__24_months -> 13_to_24
+  - 25__36_months -> 25_to_36
+  - 36__months -> 36_or_more
 
 
 - For Gender Composition of CDA, the following mapping is used:
@@ -197,3 +234,24 @@ Yenche| Kuje | 8
   1. mobile_commun -> mobile_communication
   - other__please_specify -> other
   - waste_manageme -> waste_management
+
+### Taking Care of Data Privacy Issues
+Due to potential privacy concerns, any columns with information that can be used in the re-identification of data collectors or the people they survey have been removed. The respective columns are:
+  - enumerator_name
+  - username
+  - simserial
+  - subscriberid
+  - deviceid
+  - phonenumber
+
+
+### Additional Meta Data
+This following columns were also removed from the dataset since they will not provide any use in further analysis:
+  - image_of_community
+  - start
+  - end
+  - version
+  - instanceID
+  - uuid
+  - _tags
+  - _notes
