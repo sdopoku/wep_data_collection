@@ -58,7 +58,7 @@ Production of Policy Briefs | Some text | November - December
 ### Resources Available
 - [x] [Survey Development](/survey/README.md)
 - [ ] Data Collection training
-- [x] Data Verification & Cleaning](/cleaning/README.md)
-- [ ] Data Publication
+- [x] [Data Verification & Cleaning](/cleaning/README.md)
+- [ ] [Data Publication](/data/)
 - [ ] Data Analysis
 - [ ] Production of Report
