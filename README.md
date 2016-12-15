@@ -31,7 +31,7 @@ All the project locations are part of Federal Capital Territory (FCT) of Nigeria
 
 ### Project Partners
 
-- [National Bureaus of Statistics (NBS) of Nigeria](http://www.nigerianstat.gov.ng)
+- [National Bureau of Statistics (NBS) of Nigeria](http://www.nigerianstat.gov.ng)
 - Shacks and Slum Dwellers Association of Nigeria, Abuja
 - National Association of Nigerian Traders, Women Wing, Abuja
 - National Union of Local Government Employees

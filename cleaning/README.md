@@ -1,7 +1,7 @@
 ## Data Cleaning and Validation Process
 
 ### Data Collection Overview
-WEP, together with Open Knowledge International, trained data collectors on 28th and 29th July 2016. On 1st -9th August 2016 (7 working days), data collectors went into the communities to collect information about status of infrastructure using the Kobo Toolbox data collection kit. 20 data collectors were to collect data from 160 communities across 32 wards of the three Area Councils of AMAC, Gwagwalada and Kuje. A total of 2 responses each were expected from each community totaling 320 expected responses. At the end of the 7-working days data collection exercise, 333 responses were collected.
+WEP, together with Open Knowledge International, trained data collectors on 28th and 29th July 2016. On 1st -9th August 2016 (7 working days), data collectors went into the communities to collect information about status of infrastructure using the [Kobo Toolbox data collection kit](http://www.kobotoolbox.org). 20 data collectors were to collect data from 160 communities across 32 wards of the three Area Councils of AMAC, Gwagwalada and Kuje. A total of 2 responses each were expected from each community totaling 320 expected responses. At the end of the 7-working days data collection exercise, 333 responses were collected.
 
 ### Validation Process
 To validate the data, WEP staff went through the database to validate:
