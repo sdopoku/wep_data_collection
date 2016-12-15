@@ -47,13 +47,13 @@ All the project locations are part of Federal Capital Territory (FCT) of Nigeria
 ### Project Timeline
 Activity       | Description    |    Dates
 -------------- | -------------- | -------
-Survey Development | Some text | March
-Data Collection Training | Selection of data collection tool;  2-day training of data collectors | June - August
-Community Data Collection Exercise| Some text | August
-Data Verification & Cleaning | Some text | September - November
-Data Publication | Some text | November
-Data Analysis | Some text | November
-Production of Policy Briefs | Some text | November - December
+Survey Development | Overview and methodology for survey implementation | March 2016
+Data Collection Training | Selection of data collection tool;  2-day training of data collectors | June - August 2016
+Community Data Collection Exercise| Overview of data collection exercise | August 2016
+Data Verification & Cleaning | Steps taken to get data into cleaned format for analysis | September - November 2016
+Data Publication | Overview of data format and platform for easy publication | November 2016
+Data Analysis | Methodology and tools for analysis | November 2016
+Production of Policy Briefs | Publication and communication of insights to target audience | November - December 2016
 
 ### Resources Available
 - [x] [Survey Development](/survey/README.md)
