@@ -57,8 +57,8 @@ Production of Policy Briefs | Publication and communication of insights to targe
 
 ### Resources Available
 - [x] [Survey Development](/survey/README.md)
-- [ ] Data Collection training
+- [ ] Data Collection Training
 - [x] [Data Verification & Cleaning](/cleaning/README.md)
-- [ ] [Data Publication](/data/)
-- [ ] Data Analysis
-- [ ] Production of Report
+- [x] [Data Publication](/data/)
+- [x] Data Analysis
+- [x] [Production of Report](/report)
