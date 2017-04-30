@@ -24,8 +24,8 @@ WEP will disseminate the findings through national and international conferences
 
 ### Project Location
 1. Abuja Municipal Area Council
-- Gwagwalada Area Council
-- Kuje Area Council
++ Gwagwalada Area Council
++ Kuje Area Council
 
 All the project locations are part of Federal Capital Territory (FCT) of Nigeria
 
