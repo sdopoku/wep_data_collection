@@ -1,0 +1,3920 @@
+﻿[
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column final/name_of_data_enumerator",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "final/name_of_data_enumerator",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Michael Ondoma J",
+          "Michael Ondoma j",
+          "Michael ondoma j",
+          "Michael ondoma J"
+        ],
+        "to": "Michael Ondoma J"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Iywenge fidelia",
+          "Iywenge fidelia ",
+          "Fidelia Iywenge",
+          "Iywenge  fidelia"
+        ],
+        "to": "Fidelia Iywenge"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Tina Ego N",
+          "Tina Ego. N.",
+          "Tina Ego. N. ",
+          "Tina Ego  N"
+        ],
+        "to": "Tina Ego N"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Adeniyi Oke",
+          "Adeniyi oke",
+          "Adeniyi oke "
+        ],
+        "to": "Adeniyi Oke"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "UHAA SCHOLASTICA",
+          "UHAA  SCHOLASTICA",
+          "UHAA SCHOLASTICA "
+        ],
+        "to": "Uhaa Scholastica"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ifeanyi Okoye",
+          "Ifeanyi okoye ",
+          "Okoye Ifeanyi"
+        ],
+        "to": "Ifeanyi Okoye"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Derrick Edward Bangura",
+          "Derrick Edward bangura",
+          "Derrick EDWARD bangura"
+        ],
+        "to": "Derrick Edward Bangura"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Godwin Richard",
+          "Godwin Richard ",
+          "Richard Godwin"
+        ],
+        "to": "Godwin Richard"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Amaram ogechi Felicia",
+          "Amaram ogechi Felicia "
+        ],
+        "to": "Amaram Ogechi Felicia"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Haruna Danjuma Mohammed",
+          "Haruna danjuma Mohammed"
+        ],
+        "to": "Haruna Danjuma Mohammed"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Magdalene Igila",
+          "Magdalene igila"
+        ],
+        "to": "Magdalene Igila"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Iso Solomon",
+          "Iso Solomon "
+        ],
+        "to": "Iso Solomon"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "James oyibo",
+          "james oyibo"
+        ],
+        "to": "James Oyibo"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Rosemary Emmanuel Odeh",
+          "Rosemary Emmanuel odeh"
+        ],
+        "to": "Rosemary Emmanuel Odeh"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Dzungwe Samson Aondona",
+          "Dzungwe Samson Aondona "
+        ],
+        "to": "Dzungwe Samson Aondona"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column final/name_of_data_enumerator",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "final/name_of_data_enumerator",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Adeniyi Oke",
+          "Adeniyi.oke "
+        ],
+        "to": "Adeniyi Oke"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column final/name_of_data_enumerator",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "final/name_of_data_enumerator",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Derrick Edward Bangura",
+          "Derrick edward bongura"
+        ],
+        "to": "Derrick Edward Bangura"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Uhaa Scholastica",
+          "UHAA SCHOLSTICA"
+        ],
+        "to": "Uhaa Scholastica"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Godwin Richard",
+          "Goodwin Richard"
+        ],
+        "to": "Godwin Richard"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column final/name_of_data_enumerator",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "final/name_of_data_enumerator",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Michael Ondoma J",
+          "Michael ondoma"
+        ],
+        "to": "Michael Ondoma J"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column final/name_of_data_enumerator",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "final/name_of_data_enumerator",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Uhaa Scholastica",
+          "UHAA SCHOLATICA"
+        ],
+        "to": "Uhaa Scholastica"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column final/name_of_data_enumerator",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "final/name_of_data_enumerator",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Derrick Edward Bangura",
+          "Derrick.edwaed bangura"
+        ],
+        "to": "Derrick Edward Bangura"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column final/name_of_data_enumerator",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "final/name_of_data_enumerator",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Prestige Akwe",
+          "Prestige"
+        ],
+        "to": "Prestige Akwe"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column final/name_of_data_enumerator",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "final/name_of_data_enumerator",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Amaram Ogechi Amaram"
+        ],
+        "to": "Amaram Ogechi Felicia"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kace",
+          "Kace "
+        ],
+        "to": "kace"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ungwan Sarki",
+          "Ungwan sarki"
+        ],
+        "to": "ungwan_sarki"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Gwagwa",
+          "gwagwa"
+        ],
+        "to": "gwagwa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kabusa",
+          "kabusa"
+        ],
+        "to": "kabusa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ungwa pashi",
+          "ungwa pashi"
+        ],
+        "to": "ungwa_pashi"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Area B",
+          "Area b"
+        ],
+        "to": "area_b"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Gwargwada kpana",
+          "Gwargwada kpana "
+        ],
+        "to": "gwargwada_kpana"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Gaube",
+          "gaube"
+        ],
+        "to": "gaube"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Tungan maje",
+          "Tungan maje "
+        ],
+        "to": "tungan_maje"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Galadimawa",
+          "galadimawa"
+        ],
+        "to": "galadimawa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Abacha Barracks",
+          "Abacha barracks"
+        ],
+        "to": "abacha_barracks"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Gwarinpa Village",
+          "Gwarinpa village"
+        ],
+        "to": "gwarinpa_village"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "FHA",
+          "fha"
+        ],
+        "to": "fha"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Aso villa",
+          "aso villa"
+        ],
+        "to": "aso villa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Angwan Kasa",
+          "Angwan Kasa "
+        ],
+        "to": "angwan_kasa"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Garki village",
+          "garki village"
+        ],
+        "to": "garki village"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Tunga Ladan",
+          "Tunga ladan"
+        ],
+        "to": "tunga_ladan"
+      }
+    ]
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column submission_date at index 151 based on column _submission_time using expression grel:value.split('T')[0]",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "selectNonTime": true,
+          "expression": "value",
+          "selectBlank": true,
+          "selectError": true,
+          "selectTime": true,
+          "name": "_submission_time",
+          "from": 1469993980000,
+          "to": 1,
+          "type": "timerange",
+          "columnName": "_submission_time"
+        }
+      ]
+    },
+    "newColumnName": "submission_date",
+    "columnInsertIndex": 151,
+    "baseColumnName": "_submission_time",
+    "expression": "grel:value.split('T')[0]",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "2016-07-31",
+                "l": "2016-07-31"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "submission_date",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "submission_date"
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ova mambila barracks"
+        ],
+        "to": "O.V.A Camp 2"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "O.V.A camp 2"
+        ],
+        "to": "O.V.A Camp 2"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Pigba APO village"
+        ],
+        "to": "Apo Village"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Pigba village Apo"
+        ],
+        "to": "Apo Village"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Agric quarters zone 4"
+        ],
+        "to": "zone4"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Agriculture Quaters Zone 4"
+        ],
+        "to": "zone4"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "zone4"
+        ],
+        "to": "wuse_zone4"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/ward",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "kabi mangoro",
+                "l": "kabi mangoro"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "community/community",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "community/community"
+        }
+      ]
+    },
+    "columnName": "community/ward",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "gaube"
+        ],
+        "to": "kabi"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Guwayi",
+                "l": "Guwayi"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "community/community",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "community/community"
+        }
+      ]
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Guwayi"
+        ],
+        "to": "Gumayi"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Akwai",
+                "l": "Akwai"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "community/community",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "community/community"
+        }
+      ]
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Akwai"
+        ],
+        "to": "Agwai"
+      }
+    ]
+  },
+  {
+    "op": "core/row-star",
+    "description": "Star rows",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Kabin kasa",
+                "l": "Kabin kasa"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "community/community",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "community/community"
+        }
+      ]
+    },
+    "starred": true
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "row.starred",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "Starred Rows",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": ""
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/ward",
+    "engineConfig": {
+      "mode": "record-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Tusha",
+                "l": "Tusha"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "community/community",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "community/community"
+        }
+      ]
+    },
+    "columnName": "community/ward",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "rubochi"
+        ],
+        "to": "gwargwada"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Durumi II New site",
+          "Durumi II new site"
+        ],
+        "to": "durumi_2"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ung.maiyakiibrahim",
+          "Ung.maiyakiibrahim."
+        ],
+        "to": "ung_maiyaki_ibrahim"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Zaga butu",
+          "Zagabutu"
+        ],
+        "to": "zagabutu"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nwgan Fulani",
+          "Nwgana fulani"
+        ],
+        "to": "ungwan_ fulani"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kado kauchi",
+          "Kado kuchi"
+        ],
+        "to": "kado_kauchi"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Angwan sarki sauni",
+          "ungwan_sarki"
+        ],
+        "to": "ungwan_sarki"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Atako",
+          "Attko"
+        ],
+        "to": "Attako"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Angwa sarki",
+          "Angwan sarki"
+        ],
+        "to": "ungwan_sarki"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Dafara",
+          "Dafari"
+        ],
+        "to": "dafara"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nualege",
+          "Nuwalege"
+        ],
+        "to": "nuwarege"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Sabo"
+        ],
+        "to": "sabo"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Kpaduma II Asokro village FCT",
+                "l": "Kpaduma II Asokro village FCT"
+              }
+            },
+            {
+              "v": {
+                "v": "kpaduma II.Asokoro village FCT- Abuja",
+                "l": "kpaduma II.Asokoro village FCT- Abuja"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "community/community",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "community/community"
+        }
+      ]
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kpaduma II Asokro village FCT"
+        ],
+        "to": "asokoro"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Robbochi",
+          "Rubochi"
+        ],
+        "to": "rubochi"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "angwan_kasa",
+          "Angwan kasuwa"
+        ],
+        "to": "ungwan_kasa"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Pagi",
+          "pegi"
+        ],
+        "to": "paggi"
+      }
+    ]
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column community/community using expression value.toLowercase()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column community/community using expression value.trim()",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column community/community using expression value.replace(/\\s+/,' ')",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column community/community using expression grel:value.split(' ').join('_')",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "grel:value.split(' ').join('_')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ministerial_quarters,_zone_2",
+                "l": "ministerial_quarters,_zone_2"
+              }
+            },
+            {
+              "v": {
+                "v": "ministeria_quaters",
+                "l": "ministeria_quaters"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "community/community",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "community/community"
+        }
+      ]
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ministeria_quaters"
+        ],
+        "to": "ministerial_quarters"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ungwan__fulani"
+        ],
+        "to": "ungwan_fulani"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ungwan_sarki",
+                "l": "ungwan_sarki"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "community/community",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "community/community"
+        },
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "dobi",
+                "l": "dobi"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "community/ward",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "community/ward"
+        }
+      ]
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ungwan_sarki"
+        ],
+        "to": "ungwan_sarki_dobi"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ungwan_sarki",
+                "l": "ungwan_sarki"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "community/community",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "community/community"
+        },
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "orozo",
+                "l": "orozo"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "community/ward",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "community/ward"
+        }
+      ]
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ungwan_sarki"
+        ],
+        "to": "ungwan_sarki_orozo"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "ungwan_sarki",
+                "l": "ungwan_sarki"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "community/community",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "community/community"
+        },
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "zuba",
+                "l": "zuba"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "community/ward",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "community/ward"
+        }
+      ]
+    },
+    "columnName": "community/community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ungwan_sarki"
+        ],
+        "to": "ungwan_sarki_zuba"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/area_council",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "n/a",
+                "l": "n/a"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "community/ward",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "community/ward"
+        }
+      ]
+    },
+    "columnName": "community/area_council",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "n/a"
+        ],
+        "to": "amac"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/ward",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "n/a",
+                "l": "n/a"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "community/ward",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "community/ward"
+        }
+      ]
+    },
+    "columnName": "community/ward",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "n/a"
+        ],
+        "to": "city-centre"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column community/ward",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "community/ward",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "city-centre"
+        ],
+        "to": "city_centre"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column general_information/role_in_community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "general_information/role_in_community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ordinary_membe"
+        ],
+        "to": "ordinary_member"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column general_information/role_in_community",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "general_information/role_in_community",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "other__please_specify"
+        ],
+        "to": "other"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column general_information/occupation",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "general_information/occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "community_head"
+        ],
+        "to": "civil_service"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column general_information/occupation",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "general_information/occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "ordinary_membe"
+        ],
+        "to": "unemployed"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column general_information/occupation",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "general_information/occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "other__please_specify"
+        ],
+        "to": "other"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column general_information/occupation",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "general_information/occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "women_leader"
+        ],
+        "to": "student"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column general_information/occupation",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "general_information/occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "youth_leader"
+        ],
+        "to": "business"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column general_information/other_occupation",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "general_information/other_occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Retried civil Servant"
+        ],
+        "to": "Retired civil Servant"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column roads/Condition_of_Roads",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "roads/Condition_of_Roads",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "tarred_graded_"
+        ],
+        "to": "dilapidated"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column roads/Condition_of_Roads",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "roads/Condition_of_Roads",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "under_construc"
+        ],
+        "to": "under_construction"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column electricity/Other_Sources_of_Electricity",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "electricity/Other_Sources_of_Electricity",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "all_of_the_abo"
+        ],
+        "to": "all_of_the_above"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column electricity/Other_Sources_of_Electricity",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "electricity/Other_Sources_of_Electricity",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "none_of_the_ab"
+        ],
+        "to": "none_of_the_above"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column electricity/Other_Sources_of_Electricity",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "electricity/Other_Sources_of_Electricity",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "renewable_ener"
+        ],
+        "to": "renewable_energy"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column electricity/Hours_of_Public_Power",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "electricity/Hours_of_Public_Power",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "none_of_the_ab"
+        ],
+        "to": "none_of_the_above"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column electricity/Effect_of_Power_Condition",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "electricity/Effect_of_Power_Condition",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "commercial_act"
+        ],
+        "to": "commercial_activities"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column electricity/Effect_of_Power_Condition",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "electricity/Effect_of_Power_Condition",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "food_preservat"
+        ],
+        "to": "food_preservation"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column electricity/Effect_of_Power_Condition",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "electricity/Effect_of_Power_Condition",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "household_mana"
+        ],
+        "to": "household_management"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column water/Effect_of_Water_Condition",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "water/Effect_of_Water_Condition",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "access_to_wate"
+        ],
+        "to": "access_to_water"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column water/Effect_of_Water_Condition",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "water/Effect_of_Water_Condition",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "no_low_inciden"
+        ],
+        "to": "no_or_low_incidence"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column water/Effect_of_Water_Condition",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "water/Effect_of_Water_Condition",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "other__please_specify"
+        ],
+        "to": "other"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column water/Effect_of_Water_Condition",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "water/Effect_of_Water_Condition",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "poor_menstrual"
+        ],
+        "to": "poor_menstrual_hygiene"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column water/Effect_of_Water_Condition",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "water/Effect_of_Water_Condition",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "access_to_water"
+        ],
+        "to": "punctuality"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column water/Effect_of_Water_Condition",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "water/Effect_of_Water_Condition",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "search_for_wat"
+        ],
+        "to": "unpunctuality"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column water/Effect_of_Water_Condition",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "water/Effect_of_Water_Condition",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "women_go_long_"
+        ],
+        "to": "long_distance_water_search"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column water/other_impacted_water_supply",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "water/other_impacted_water_supply",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Non",
+          "Non "
+        ],
+        "to": "None"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column healthcare/Healthcare_Facility",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "healthcare/Healthcare_Facility",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "under_construc"
+        ],
+        "to": "under_construction"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column waste/Who_Manages_Waste",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "waste/Who_Manages_Waste",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "both_governmen"
+        ],
+        "to": "government_private"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column waste/Who_Manages_Waste",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "waste/Who_Manages_Waste",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "community_enga"
+        ],
+        "to": "waste_manager"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column waste/Who_Manages_Waste",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "waste/Who_Manages_Waste",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "waste_manager"
+        ],
+        "to": "waste_manager_engaged"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column waste/Who_Manages_Waste",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "waste/Who_Manages_Waste",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "no_waste_manag"
+        ],
+        "to": "no_waste_management"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column services/other_services",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "services/other_services",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kiosk",
+          "kiosk"
+        ],
+        "to": "kiosk"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column services/other_services",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "services/other_services",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "No market",
+          "No market ",
+          "No Market "
+        ],
+        "to": "no_market"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Non",
+          "non"
+        ],
+        "to": "none"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column services/other_services",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "services/other_services",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "none",
+          "None"
+        ],
+        "to": "none"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column services/other_services",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "services/other_services",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "None of the above",
+          "Non of the above"
+        ],
+        "to": "none_of_the_above"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column communication/MTN_Present",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "communication/MTN_Present",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "option_1"
+        ],
+        "to": "yes"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column communication/MTN_Present",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "communication/MTN_Present",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "option_2"
+        ],
+        "to": "no"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column communication/Glo_Present",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "communication/Glo_Present",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "option_1"
+        ],
+        "to": "yes"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column communication/Etisalat_Present",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "communication/Etisalat_Present",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "option_1"
+        ],
+        "to": "yes"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column communication/Etisalat_Present",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "communication/Etisalat_Present",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "option_2"
+        ],
+        "to": "no"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column communication/Airtel_Present",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "communication/Airtel_Present",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "option_1"
+        ],
+        "to": "yes"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column communication/Airtel_Present",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "communication/Airtel_Present",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "option_2"
+        ],
+        "to": "no"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column communication/Visafone_Present",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "communication/Visafone_Present",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "option_1"
+        ],
+        "to": "yes"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column communication/Visafone_Present",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "communication/Visafone_Present",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "option_2"
+        ],
+        "to": "no"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/Name_of_project",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/Name_of_project",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Electricity",
+          "Electricity,"
+        ],
+        "to": "Electricity"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/Name_of_project",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/Name_of_project",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Borehole",
+          "borhole"
+        ],
+        "to": "Borehole"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/Name_of_project",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/Name_of_project",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Electricity",
+          "Electricity supply"
+        ],
+        "to": "Electricity"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/other_needs_into_area_council_",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/other_needs_into_area_council_",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Don't know",
+          "Dont know",
+          "Don't know\n",
+          "Don't know "
+        ],
+        "to": "Do Not Know"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Do nothing",
+          "Do nothing ",
+          "Do nothing.\n"
+        ],
+        "to": "Do Nothing"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Send delegates",
+          "Send delegates."
+        ],
+        "to": "Send Delegates"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/other_needs_into_area_council_",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/other_needs_into_area_council_",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Do Not Know",
+          "Don'tknow",
+          "Dnt know"
+        ],
+        "to": "Do Not Know"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "None",
+          "Non"
+        ],
+        "to": "None"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Respondent unaware",
+          "Respondent not aware of any"
+        ],
+        "to": "Respondent unaware"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Sends delegate",
+          "Sends delegates"
+        ],
+        "to": "Send Delegates"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Send Delegates",
+          "Send delegates from community to amac"
+        ],
+        "to": "Send Delegates"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/other_needs_into_area_council_",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/other_needs_into_area_council_",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "I  have no idea"
+        ],
+        "to": "No idea"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/other_needs_into_area_council_",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/other_needs_into_area_council_",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "No involvement"
+        ],
+        "to": "Not involved"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/other_needs_into_area_council_",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/other_needs_into_area_council_",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nothing"
+        ],
+        "to": "Do Nothing"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/other_needs_into_area_council_",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/other_needs_into_area_council_",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "During campaign"
+        ],
+        "to": "During Political Campaign"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/other_needs_into_area_council_",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/other_needs_into_area_council_",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "During Political Campaign",
+          "During political campaign"
+        ],
+        "to": "During Political Campaign"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/Gender_Composition_CDA",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/Gender_Composition_CDA",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "equal_women_an"
+        ],
+        "to": "equal"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/Gender_Composition_CDA",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/Gender_Composition_CDA",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "more_men_than_"
+        ],
+        "to": "more_men"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/Gender_Composition_CDA",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/Gender_Composition_CDA",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "more_women_tha"
+        ],
+        "to": "more_women"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/what_facility_or_service_can_you_say_is_of_priority_need_to_your_community_",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/what_facility_or_service_can_you_say_is_of_priority_need_to_your_community_",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "mobile_communi"
+        ],
+        "to": "mobile_communication"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/what_facility_or_service_can_you_say_is_of_priority_need_to_your_community_",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/what_facility_or_service_can_you_say_is_of_priority_need_to_your_community_",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "other__please_specify"
+        ],
+        "to": "other"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/what_facility_or_service_can_you_say_is_of_priority_need_to_your_community_",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/what_facility_or_service_can_you_say_is_of_priority_need_to_your_community_",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "waste_manageme"
+        ],
+        "to": "waste_management"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/other_priority_need",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/other_priority_need",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Secondary school",
+          "Secondary school section",
+          "Secondary schools"
+        ],
+        "to": "Secondary School"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column budget/other_priority_need",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "budget/other_priority_need",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Public senior secondary school",
+          "public secondary school"
+        ],
+        "to": "Public Senior Secondary School"
+      }
+    ]
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column community/area_council to area_council",
+    "oldColumnName": "community/area_council",
+    "newColumnName": "area_council"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column community/ward to ward",
+    "oldColumnName": "community/ward",
+    "newColumnName": "ward"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column community/community to community",
+    "oldColumnName": "community/community",
+    "newColumnName": "community"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column community/sector to sector",
+    "oldColumnName": "community/sector",
+    "newColumnName": "sector"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/role_in_community to role_in_community",
+    "oldColumnName": "general_information/role_in_community",
+    "newColumnName": "role_in_community"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/other_role_in_community to other_role_in_community",
+    "oldColumnName": "general_information/other_role_in_community",
+    "newColumnName": "other_role_in_community"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/sex to sex",
+    "oldColumnName": "general_information/sex",
+    "newColumnName": "sex"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/Age_in_completed_years to age_in_completed_years",
+    "oldColumnName": "general_information/Age_in_completed_years",
+    "newColumnName": "age_in_completed_years"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/marital_status to marital_status",
+    "oldColumnName": "general_information/marital_status",
+    "newColumnName": "marital_status"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/occupation to occupation",
+    "oldColumnName": "general_information/occupation",
+    "newColumnName": "occupation"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/other_occupation to other_occupation",
+    "oldColumnName": "general_information/other_occupation",
+    "newColumnName": "other_occupation"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/Physical_Challenge to physical_challenge",
+    "oldColumnName": "general_information/Physical_Challenge",
+    "newColumnName": "physical_challenge"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/kind_of_physical_challenge/deaf to deaf",
+    "oldColumnName": "general_information/kind_of_physical_challenge/deaf",
+    "newColumnName": "deaf"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/kind_of_physical_challenge/dumb to dumb",
+    "oldColumnName": "general_information/kind_of_physical_challenge/dumb",
+    "newColumnName": "dumb"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/kind_of_physical_challenge/cripple to cripple",
+    "oldColumnName": "general_information/kind_of_physical_challenge/cripple",
+    "newColumnName": "cripple"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/kind_of_physical_challenge/blind to blind",
+    "oldColumnName": "general_information/kind_of_physical_challenge/blind",
+    "newColumnName": "blind"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/kind_of_physical_challenge/amputee to amputee",
+    "oldColumnName": "general_information/kind_of_physical_challenge/amputee",
+    "newColumnName": "amputee"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/kind_of_physical_challenge/other__please_specify to other_physical_challenge",
+    "oldColumnName": "general_information/kind_of_physical_challenge/other__please_specify",
+    "newColumnName": "other_physical_challenge"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column other_physical_challenge to has_other_physical_challenge",
+    "oldColumnName": "other_physical_challenge",
+    "newColumnName": "has_other_physical_challenge"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/other_physical_challenge to other_physical_challenge",
+    "oldColumnName": "general_information/other_physical_challenge",
+    "newColumnName": "other_physical_challenge"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/Community_Existence to community_existence",
+    "oldColumnName": "general_information/Community_Existence",
+    "newColumnName": "community_existence"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/Duration_in_Community to duration_in_community",
+    "oldColumnName": "general_information/Duration_in_Community",
+    "newColumnName": "duration_in_community"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column general_information/Number_of_Months to community_duration_months",
+    "oldColumnName": "general_information/Number_of_Months",
+    "newColumnName": "community_duration_months"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column roads/Condition_of_Roads to condition_of_roads",
+    "oldColumnName": "roads/Condition_of_Roads",
+    "newColumnName": "condition_of_roads"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column roads/Effect_of_Road_Conditions/movement_in_an to movement_easy_convenient",
+    "oldColumnName": "roads/Effect_of_Road_Conditions/movement_in_an",
+    "newColumnName": "movement_easy_convenient"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column roads/Effect_of_Road_Conditions/movement_in_an_1 to movement_difficult_inconvenient",
+    "oldColumnName": "roads/Effect_of_Road_Conditions/movement_in_an_1",
+    "newColumnName": "movement_difficult_inconvenient"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column roads/Effect_of_Road_Conditions/transport_fare to transport_fare_high",
+    "oldColumnName": "roads/Effect_of_Road_Conditions/transport_fare",
+    "newColumnName": "transport_fare_high"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column roads/Effect_of_Road_Conditions/too_many_accid to too_many_accidents",
+    "oldColumnName": "roads/Effect_of_Road_Conditions/too_many_accid",
+    "newColumnName": "too_many_accidents"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column electricity/Public_Power_Supply to public_power_supply",
+    "oldColumnName": "electricity/Public_Power_Supply",
+    "newColumnName": "public_power_supply"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column electricity/Other_Sources_of_Electricity to other_sources_of_electricity",
+    "oldColumnName": "electricity/Other_Sources_of_Electricity",
+    "newColumnName": "other_sources_of_electricity"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column electricity/Hours_of_Public_Power to hours_of_public_power",
+    "oldColumnName": "electricity/Hours_of_Public_Power",
+    "newColumnName": "hours_of_public_power"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column electricity/Effect_of_Power_Condition to effect_of_power_condition",
+    "oldColumnName": "electricity/Effect_of_Power_Condition",
+    "newColumnName": "effect_of_power_condition"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column water/Public_Water_Supply to public_water_supply",
+    "oldColumnName": "water/Public_Water_Supply",
+    "newColumnName": "public_water_supply"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column water/Other_Sources_of_Water_Supply/private_boreho to water_private_boreholes",
+    "oldColumnName": "water/Other_Sources_of_Water_Supply/private_boreho",
+    "newColumnName": "water_private_boreholes"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column water/Other_Sources_of_Water_Supply/water_vendors to water_vendors",
+    "oldColumnName": "water/Other_Sources_of_Water_Supply/water_vendors",
+    "newColumnName": "water_vendors"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column water_private_boreholes to private_boreholes",
+    "oldColumnName": "water_private_boreholes",
+    "newColumnName": "private_boreholes"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column water/Other_Sources_of_Water_Supply/stream to stream",
+    "oldColumnName": "water/Other_Sources_of_Water_Supply/stream",
+    "newColumnName": "stream"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column water/Other_Sources_of_Water_Supply/hand_dug_wells to hand_dug_wells",
+    "oldColumnName": "water/Other_Sources_of_Water_Supply/hand_dug_wells",
+    "newColumnName": "hand_dug_wells"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column water/Other_Sources_of_Water_Supply/harvested_rain to harvested_rain",
+    "oldColumnName": "water/Other_Sources_of_Water_Supply/harvested_rain",
+    "newColumnName": "harvested_rain"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column water/Effect_of_Water_Condition to effect_of_water_condition",
+    "oldColumnName": "water/Effect_of_Water_Condition",
+    "newColumnName": "effect_of_water_condition"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column water/other_impacted_water_supply to other_impacted_water_supply",
+    "oldColumnName": "water/other_impacted_water_supply",
+    "newColumnName": "other_impacted_water_supply"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column effect_of_water_condition to most_impacted_by_water_supply",
+    "oldColumnName": "effect_of_water_condition",
+    "newColumnName": "most_impacted_by_water_supply"
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column most_impacted_by_water_supply",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "most_impacted_by_water_supply",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "high_incidence"
+        ],
+        "to": "high_incidence_diseases"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column most_impacted_by_water_supply",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "most_impacted_by_water_supply",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "a_lot_of_money"
+        ],
+        "to": "lot_money_buying_water"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column most_impacted_by_water_supply",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "most_impacted_by_water_supply",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "no_or_low_incidence"
+        ],
+        "to": "no_or_low_incidence_diseases"
+      }
+    ]
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column healthcare/Healthcare_Facility to healthcare_facility",
+    "oldColumnName": "healthcare/Healthcare_Facility",
+    "newColumnName": "healthcare_facility"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column healthcare/Type_of_Healthcare_Facility/teaching_hospi to teaching_hospital",
+    "oldColumnName": "healthcare/Type_of_Healthcare_Facility/teaching_hospi",
+    "newColumnName": "teaching_hospital"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column healthcare/Type_of_Healthcare_Facility/specialist_hos to specialist_hospital",
+    "oldColumnName": "healthcare/Type_of_Healthcare_Facility/specialist_hos",
+    "newColumnName": "specialist_hospital"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column healthcare/Type_of_Healthcare_Facility/private_hospit to private_hospital",
+    "oldColumnName": "healthcare/Type_of_Healthcare_Facility/private_hospit",
+    "newColumnName": "private_hospital"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column healthcare/Type_of_Healthcare_Facility/maternity_heal to maternity_health_center_or_dispensary",
+    "oldColumnName": "healthcare/Type_of_Healthcare_Facility/maternity_heal",
+    "newColumnName": "maternity_health_center_or_dispensary"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column healthcare/Type_of_Healthcare_Facility/herbal_homes_t to herbal_homes",
+    "oldColumnName": "healthcare/Type_of_Healthcare_Facility/herbal_homes_t",
+    "newColumnName": "herbal_homes"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column herbal_homes to herbal_homes_traditional_birth_attendance",
+    "oldColumnName": "herbal_homes",
+    "newColumnName": "herbal_homes_traditional_birth_attendance"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column healthcare/Type_of_Healthcare_Facility/public_primary to public_primary_healthcare_facility",
+    "oldColumnName": "healthcare/Type_of_Healthcare_Facility/public_primary",
+    "newColumnName": "public_primary_healthcare_facility"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column healthcare/Public_Healthcare_Facilities_F to functional_public_healthcare_facility",
+    "oldColumnName": "healthcare/Public_Healthcare_Facilities_F",
+    "newColumnName": "functional_public_healthcare_facility"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column healthcare/Effect_of_Public_Healthcare/residents_go_o to healthcare_out_of_community",
+    "oldColumnName": "healthcare/Effect_of_Public_Healthcare/residents_go_o",
+    "newColumnName": "healthcare_out_of_community"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column healthcare_out_of_community to healthcare_residents_go_out_of_community",
+    "oldColumnName": "healthcare_out_of_community",
+    "newColumnName": "healthcare_residents_go_out_of_community"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column healthcare/Effect_of_Public_Healthcare/increase_in_he to healthcare_increased_complications",
+    "oldColumnName": "healthcare/Effect_of_Public_Healthcare/increase_in_he",
+    "newColumnName": "healthcare_increased_complications"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column other_effect_non_functional_he to healthcare_other_effect_non_functional",
+    "oldColumnName": "other_effect_non_functional_he",
+    "newColumnName": "healthcare_other_effect_non_functional"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column healthcare/Effect_of_Public_Healthcare/other__please_specify to healthcare_other_effect",
+    "oldColumnName": "healthcare/Effect_of_Public_Healthcare/other__please_specify",
+    "newColumnName": "healthcare_other_effect"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column education/Educational_Institution to educational_institution",
+    "oldColumnName": "education/Educational_Institution",
+    "newColumnName": "educational_institution"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column education/Types_of_Educational_Instituti/public_nursery to public_nursery_school",
+    "oldColumnName": "education/Types_of_Educational_Instituti/public_nursery",
+    "newColumnName": "public_nursery_school"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column education/Types_of_Educational_Instituti/private_nurser to private_nursery_school",
+    "oldColumnName": "education/Types_of_Educational_Instituti/private_nurser",
+    "newColumnName": "private_nursery_school"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column education/Types_of_Educational_Instituti/public_primary to public_primary_school",
+    "oldColumnName": "education/Types_of_Educational_Instituti/public_primary",
+    "newColumnName": "public_primary_school"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column education/Types_of_Educational_Instituti/private_primar to private_primary_school",
+    "oldColumnName": "education/Types_of_Educational_Instituti/private_primar",
+    "newColumnName": "private_primary_school"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column education/Types_of_Educational_Instituti/public_seconda to public_secondary_school",
+    "oldColumnName": "education/Types_of_Educational_Instituti/public_seconda",
+    "newColumnName": "public_secondary_school"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column education/Types_of_Educational_Instituti/private_second to private_secondary_school",
+    "oldColumnName": "education/Types_of_Educational_Instituti/private_second",
+    "newColumnName": "private_secondary_school"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column education/Types_of_Educational_Instituti/colleges_of_ed to colleges_of_education",
+    "oldColumnName": "education/Types_of_Educational_Instituti/colleges_of_ed",
+    "newColumnName": "colleges_of_education"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column colleges_of_education to colleges_of_education_or_teacher_training",
+    "oldColumnName": "colleges_of_education",
+    "newColumnName": "colleges_of_education_or_teacher_training"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column education/Types_of_Educational_Instituti/universities_p to universities_polytechnics_research_institutions",
+    "oldColumnName": "education/Types_of_Educational_Instituti/universities_p",
+    "newColumnName": "universities_polytechnics_research_institutions"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column education/Types_of_Educational_Instituti/other_please_s to other_types_educational_instutitions",
+    "oldColumnName": "education/Types_of_Educational_Instituti/other_please_s",
+    "newColumnName": "other_types_educational_instutitions"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column education/other_educational_institutions to other_educational_institutions",
+    "oldColumnName": "education/other_educational_institutions",
+    "newColumnName": "other_educational_institutions"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column education/Effect_of_Absence_Educational_/child_long_dis to education_children_travel_long_distance",
+    "oldColumnName": "education/Effect_of_Absence_Educational_/child_long_dis",
+    "newColumnName": "education_children_travel_long_distance"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column education/Effect_of_Absence_Educational_/additional_cos to education_additional_costs",
+    "oldColumnName": "education/Effect_of_Absence_Educational_/additional_cos",
+    "newColumnName": "education_additional_costs"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column education/Effect_of_Absence_Educational_/increased_expo to education_increased_danger_exposure",
+    "oldColumnName": "education/Effect_of_Absence_Educational_/increased_expo",
+    "newColumnName": "education_increased_danger_exposure"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column waste/Waste_Mangement_System to waste_mangement_system",
+    "oldColumnName": "waste/Waste_Mangement_System",
+    "newColumnName": "waste_mangement_system"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column waste/Who_Manages_Waste to who_manages_waste",
+    "oldColumnName": "waste/Who_Manages_Waste",
+    "newColumnName": "who_manages_waste"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column waste/Absence_of_Waste_Management/high_incidence to waste_high_incidence_injury",
+    "oldColumnName": "waste/Absence_of_Waste_Management/high_incidence",
+    "newColumnName": "waste_high_incidence_injury"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column waste/Absence_of_Waste_Management/offensive_odou to waste_offensive_odour",
+    "oldColumnName": "waste/Absence_of_Waste_Management/offensive_odou",
+    "newColumnName": "waste_offensive_odour"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column waste/Absence_of_Waste_Management/prevalence_of_ to waste_prevalence_of_diseases",
+    "oldColumnName": "waste/Absence_of_Waste_Management/prevalence_of_",
+    "newColumnName": "waste_prevalence_of_diseases"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column waste/Absence_of_Waste_Management/other__please_specify to waste_other_effects",
+    "oldColumnName": "waste/Absence_of_Waste_Management/other__please_specify",
+    "newColumnName": "waste_other_effects"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Type_of_Services/supermarkets_d to services_supermarkets",
+    "oldColumnName": "services/Type_of_Services/supermarkets_d",
+    "newColumnName": "services_supermarkets"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services_supermarkets to services_supermarkets_departmental_stores",
+    "oldColumnName": "services_supermarkets",
+    "newColumnName": "services_supermarkets_departmental_stores"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Type_of_Services/daily_markets to services_daily_markets",
+    "oldColumnName": "services/Type_of_Services/daily_markets",
+    "newColumnName": "services_daily_markets"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Type_of_Services/scheduled_mark to services_scheduled_markets",
+    "oldColumnName": "services/Type_of_Services/scheduled_mark",
+    "newColumnName": "services_scheduled_markets"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Type_of_Services/mobile_telepho to services_mobile_telephone_services",
+    "oldColumnName": "services/Type_of_Services/mobile_telepho",
+    "newColumnName": "services_mobile_telephone_services"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Type_of_Services/business_centr to services_business_centres",
+    "oldColumnName": "services/Type_of_Services/business_centr",
+    "newColumnName": "services_business_centres"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Type_of_Services/fast_food_join to services_fast_food_joints",
+    "oldColumnName": "services/Type_of_Services/fast_food_join",
+    "newColumnName": "services_fast_food_joints"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Type_of_Services/other__please_specify to services_other",
+    "oldColumnName": "services/Type_of_Services/other__please_specify",
+    "newColumnName": "services_other"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/other_services to services_other_services",
+    "oldColumnName": "services/other_services",
+    "newColumnName": "services_other_services"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Market_Available to services_market_available",
+    "oldColumnName": "services/Market_Available",
+    "newColumnName": "services_market_available"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Facilities_in_Market/access_road to market_facilities_access_roads",
+    "oldColumnName": "services/Facilities_in_Market/access_road",
+    "newColumnName": "market_facilities_access_roads"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Facilities_in_Market/electricity to market_facilities_electricity",
+    "oldColumnName": "services/Facilities_in_Market/electricity",
+    "newColumnName": "market_facilities_electricity"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Facilities_in_Market/toilet to market_facilities_toilets",
+    "oldColumnName": "services/Facilities_in_Market/toilet",
+    "newColumnName": "market_facilities_toilets"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Facilities_in_Market/motor_park to market_facilities_motor_parks",
+    "oldColumnName": "services/Facilities_in_Market/motor_park",
+    "newColumnName": "market_facilities_motor_parks"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Facilities_in_Market/waste_refuse_d to market_facilities_waste_refuse_dump",
+    "oldColumnName": "services/Facilities_in_Market/waste_refuse_d",
+    "newColumnName": "market_facilities_waste_refuse_dump"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Facilities_in_Market/other__please_specify to market_facilities_other",
+    "oldColumnName": "services/Facilities_in_Market/other__please_specify",
+    "newColumnName": "market_facilities_other"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/other_market_facilities to other_market_facilities",
+    "oldColumnName": "services/other_market_facilities",
+    "newColumnName": "other_market_facilities"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Effect_of_Market_Absence/members_travel to market_Absence_effect_members_travel",
+    "oldColumnName": "services/Effect_of_Market_Absence/members_travel",
+    "newColumnName": "market_Absence_effect_members_travel"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column market_Absence_effect_members_travel to market_absence_effect_travel_long_distance",
+    "oldColumnName": "market_Absence_effect_members_travel",
+    "newColumnName": "market_absence_effect_travel_long_distance"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Effect_of_Market_Absence/small_scale_bu to market_absence_effect_low_patronage",
+    "oldColumnName": "services/Effect_of_Market_Absence/small_scale_bu",
+    "newColumnName": "market_absence_effect_low_patronage"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Effect_of_Market_Absence/petty_traders_ to market_absence_effect_more_spent_to_markets",
+    "oldColumnName": "services/Effect_of_Market_Absence/petty_traders_",
+    "newColumnName": "market_absence_effect_more_spent_to_markets"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column services/Effect_of_Market_Absence/small_scale_bu_1 to market_absence_effect_high_patronage",
+    "oldColumnName": "services/Effect_of_Market_Absence/small_scale_bu_1",
+    "newColumnName": "market_absence_effect_high_patronage"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column communication/MTN_Present to mtn_present",
+    "oldColumnName": "communication/MTN_Present",
+    "newColumnName": "mtn_present"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column communication/MTN_Signal_Strength to mtn_signal_strength",
+    "oldColumnName": "communication/MTN_Signal_Strength",
+    "newColumnName": "mtn_signal_strength"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column communication/Glo_Present to glo_present",
+    "oldColumnName": "communication/Glo_Present",
+    "newColumnName": "glo_present"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column communication/Glo_Signal_Strength to glo_signal_strength",
+    "oldColumnName": "communication/Glo_Signal_Strength",
+    "newColumnName": "glo_signal_strength"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column communication/Etisalat_Present to etisalat_present",
+    "oldColumnName": "communication/Etisalat_Present",
+    "newColumnName": "etisalat_present"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column communication/Etisalat_Signal_Strength to etisalat_signal_strength",
+    "oldColumnName": "communication/Etisalat_Signal_Strength",
+    "newColumnName": "etisalat_signal_strength"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column communication/Airtel_Present to airtel_present",
+    "oldColumnName": "communication/Airtel_Present",
+    "newColumnName": "airtel_present"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column communication/Airtel_Signal_Strength to airtel_signal_strength",
+    "oldColumnName": "communication/Airtel_Signal_Strength",
+    "newColumnName": "airtel_signal_strength"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column communication/Visafone_Present to visafone_present",
+    "oldColumnName": "communication/Visafone_Present",
+    "newColumnName": "visafone_present"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column communication/Visafone_Signal_Strength to visafone_signal_strength",
+    "oldColumnName": "communication/Visafone_Signal_Strength",
+    "newColumnName": "visafone_signal_strength"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column communication/Has_Other_Network to has_other_network",
+    "oldColumnName": "communication/Has_Other_Network",
+    "newColumnName": "has_other_network"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column communication/Other_Network_Name to other_network_name",
+    "oldColumnName": "communication/Other_Network_Name",
+    "newColumnName": "other_network_name"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column communication/Other_Signal_Strength to other_network_signal_strength",
+    "oldColumnName": "communication/Other_Signal_Strength",
+    "newColumnName": "other_network_signal_strength"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/Involved_in_Budget_Process to involved_in_budget_Process",
+    "oldColumnName": "budget/Involved_in_Budget_Process",
+    "newColumnName": "involved_in_budget_Process"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column involved_in_budget_Process to involved_in_budget_process",
+    "oldColumnName": "involved_in_budget_Process",
+    "newColumnName": "involved_in_budget_process"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/Access_to_Budget_Document to access_to_budget_document",
+    "oldColumnName": "budget/Access_to_Budget_Document",
+    "newColumnName": "access_to_budget_document"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/Awareness_of_Project_in_Budget to awareness_of_project_in_budget",
+    "oldColumnName": "budget/Awareness_of_Project_in_Budget",
+    "newColumnName": "awareness_of_project_in_budget"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column access_to_budget_document to community_access_to_budget_document",
+    "oldColumnName": "access_to_budget_document",
+    "newColumnName": "community_access_to_budget_document"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column awareness_of_project_in_budget to respondent_awareness_of_project_in_budget",
+    "oldColumnName": "awareness_of_project_in_budget",
+    "newColumnName": "respondent_awareness_of_project_in_budget"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/Name_of_project to name_of_project_in_budget",
+    "oldColumnName": "budget/Name_of_project",
+    "newColumnName": "name_of_project_in_budget"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/Projects_in_Budgets_Implemente/monitor_implem to budget_monitor_implementation",
+    "oldColumnName": "budget/Projects_in_Budgets_Implemente/monitor_implem",
+    "newColumnName": "budget_monitor_implementation"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/Projects_in_Budgets_Implemente/ask_questions_ to project_in_budget_ask_questions",
+    "oldColumnName": "budget/Projects_in_Budgets_Implemente/ask_questions_",
+    "newColumnName": "project_in_budget_ask_questions"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget_monitor_implementation to project_in_budget_monitor_implementation",
+    "oldColumnName": "budget_monitor_implementation",
+    "newColumnName": "project_in_budget_monitor_implementation"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/Projects_in_Budgets_Implemente/do_nothing to project_in_budget_do_nothing",
+    "oldColumnName": "budget/Projects_in_Budgets_Implemente/do_nothing",
+    "newColumnName": "project_in_budget_do_nothing"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/Projects_in_Budgets_Implemente/get_media_atte to project_in_budget_get_media_attention",
+    "oldColumnName": "budget/Projects_in_Budgets_Implemente/get_media_atte",
+    "newColumnName": "project_in_budget_get_media_attention"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/Get_Needs_into_Area_Council_Bu/community_writ to area_council_budget_community_writes_needs",
+    "oldColumnName": "budget/Get_Needs_into_Area_Council_Bu/community_writ",
+    "newColumnName": "area_council_budget_community_writes_needs"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/Get_Needs_into_Area_Council_Bu/community_cons to area_council_budget_coummunity_consultation",
+    "oldColumnName": "budget/Get_Needs_into_Area_Council_Bu/community_cons",
+    "newColumnName": "area_council_budget_coummunity_consultation"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/Get_Needs_into_Area_Council_Bu/other__please_specify to area_council_budget_other",
+    "oldColumnName": "budget/Get_Needs_into_Area_Council_Bu/other__please_specify",
+    "newColumnName": "area_council_budget_other"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/other_needs_into_area_council_ to area_council_budget_other_ways",
+    "oldColumnName": "budget/other_needs_into_area_council_",
+    "newColumnName": "area_council_budget_other_ways"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/Project_Implemented_From_Reque to project_implemented_due_to_request",
+    "oldColumnName": "budget/Project_Implemented_From_Reque",
+    "newColumnName": "project_implemented_due_to_request"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/Project_Implement_on_Request to name_project_implemented_due_to_request",
+    "oldColumnName": "budget/Project_Implement_on_Request",
+    "newColumnName": "name_project_implemented_due_to_request"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/Community_Briefing_on_Developm to community_briefing_on_development",
+    "oldColumnName": "budget/Community_Briefing_on_Developm",
+    "newColumnName": "community_briefing_on_development"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/Months_Since_Last_Briefing to months_since_last_community_briefing",
+    "oldColumnName": "budget/Months_Since_Last_Briefing",
+    "newColumnName": "months_since_last_community_briefing"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/CDA_Present to cda_present",
+    "oldColumnName": "budget/CDA_Present",
+    "newColumnName": "cda_present"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/CDA_Work/officials_of_c to cda_meetings_with_area_council",
+    "oldColumnName": "budget/CDA_Work/officials_of_c",
+    "newColumnName": "cda_meetings_with_area_council"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/CDA_Work/cda_officials_ to cda_writes_to_area_councils",
+    "oldColumnName": "budget/CDA_Work/cda_officials_",
+    "newColumnName": "cda_writes_to_area_councils"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/CDA_Work/cda_has_never_ to cda_never_contacted_area_council",
+    "oldColumnName": "budget/CDA_Work/cda_has_never_",
+    "newColumnName": "cda_never_contacted_area_council"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/CDA_Work/are_councils_i to area_councils_initiate_meetings_with_cda",
+    "oldColumnName": "budget/CDA_Work/are_councils_i",
+    "newColumnName": "area_councils_initiate_meetings_with_cda"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column cda_meetings_with_area_council to cda_initiates_meetings_with_area_council",
+    "oldColumnName": "cda_meetings_with_area_council",
+    "newColumnName": "cda_initiates_meetings_with_area_council"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/CDA_Work/other__please_specify to cda_work_with_area_council_other",
+    "oldColumnName": "budget/CDA_Work/other__please_specify",
+    "newColumnName": "cda_work_with_area_council_other"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/other_CDA_work_with_area_counc to other_cda_work_with_area_council",
+    "oldColumnName": "budget/other_CDA_work_with_area_counc",
+    "newColumnName": "other_cda_work_with_area_council"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/Gender_Composition_CDA to cda_gender_composition",
+    "oldColumnName": "budget/Gender_Composition_CDA",
+    "newColumnName": "cda_gender_composition"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/what_facility_or_service_can_you_say_is_of_priority_need_to_your_community_ to priority_need_to_community",
+    "oldColumnName": "budget/what_facility_or_service_can_you_say_is_of_priority_need_to_your_community_",
+    "newColumnName": "priority_need_to_community"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column budget/other_priority_need to other_priority_need_to_community",
+    "oldColumnName": "budget/other_priority_need",
+    "newColumnName": "other_priority_need_to_community"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column final/gps_location_of_community to gps_location_of_community",
+    "oldColumnName": "final/gps_location_of_community",
+    "newColumnName": "gps_location_of_community"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column final/_gps_location_of_community_latitude to community_latitude",
+    "oldColumnName": "final/_gps_location_of_community_latitude",
+    "newColumnName": "community_latitude"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column final/_gps_location_of_community_longitude to community_longitude",
+    "oldColumnName": "final/_gps_location_of_community_longitude",
+    "newColumnName": "community_longitude"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column final/_gps_location_of_community_altitude to community_altitude",
+    "oldColumnName": "final/_gps_location_of_community_altitude",
+    "newColumnName": "community_altitude"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column final/_gps_location_of_community_precision to gps_precision",
+    "oldColumnName": "final/_gps_location_of_community_precision",
+    "newColumnName": "gps_precision"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column final/image_of_community to image_of_community",
+    "oldColumnName": "final/image_of_community",
+    "newColumnName": "image_of_community"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column final/name_of_data_enumerator to enumerator_name",
+    "oldColumnName": "final/name_of_data_enumerator",
+    "newColumnName": "enumerator_name"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column _uuid to uuid",
+    "oldColumnName": "_uuid",
+    "newColumnName": "uuid"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column __version__ to version",
+    "oldColumnName": "__version__",
+    "newColumnName": "version"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column meta/instanceID to instanceID",
+    "oldColumnName": "meta/instanceID",
+    "newColumnName": "instanceID"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column _submission_time to submission_time",
+    "oldColumnName": "_submission_time",
+    "newColumnName": "submission_time"
+  }
+]
